@@ -35,6 +35,10 @@ The reason I created this tool is that in our company, we have access to many se
 
 
 ## Screenshots
+### Steps to store new application
+![image](https://user-images.githubusercontent.com/108437129/230873265-8c93b9a0-d671-45b0-98ee-e3ce34af8f52.png)
+### Application menu
+![image](https://user-images.githubusercontent.com/108437129/230873280-f483a590-74e1-42c6-b5ca-23356f3c694b.png)
 
 
 ## Authors
