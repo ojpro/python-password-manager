@@ -32,6 +32,9 @@ The reason I created this tool is that in our company, we have access to many se
 ```
 
 3. 😎 Have fun
+```bash
+python main.py
+```
 
 
 ## Screenshots
